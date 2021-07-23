@@ -1,0 +1,58 @@
+body{
+	color: #fff;
+	background-color: #162d2d;
+	text-align: center;
+}
+#ProfPic{
+}
+#ProfPic img{
+	width: 30%;
+	border-radius: 50%;
+	margin-bottom: 10px;
+}
+#ProfAff{
+	font-family: unicode;
+}
+.ProfName{
+	font-size: 5vw;
+	font-weight: bold;
+}
+.ProfPos{
+	font-size: 2vw;
+}
+.ProfDept{
+	font-size: 2vw;
+}
+hr {
+  border: 1px solid gray;
+}
+div.DeptCouple{
+	width: 40%;
+	float: left;
+	height: 10vw;
+}
+div.DeptCouple div{
+	margin-left: 20%;
+	vertical-align: center;
+}
+#Dept img{
+	width: 20%;
+	float: left;
+	margin-right: 5%;
+}
+#Dept p.Unicode{
+	font-size: 1.5vw;
+	margin-bottom: 0;
+	text-align: left;
+}
+#Dept p.Eng{
+	font-size: 1.5vw;
+	margin-bottom: 0;
+	text-align: left;
+}
+div.DeptCouple2{
+	width: 40%;
+	float: right;
+	text-align: left;
+	height: 10vw;
+}
