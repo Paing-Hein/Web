@@ -61,5 +61,8 @@ div.DeptCouple2 div{
 	margin-bottom: 0;
 	text-align: left;
 }
-
-
+p.hd{
+	text-align: center;
+	font-size: 1vw;
+	margin-bottom: 2vw;
+}
